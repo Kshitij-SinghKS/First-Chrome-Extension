@@ -2,6 +2,7 @@ body {
     margin:0;
     padding:10px;
     font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
 }
 #input-el{
     width: 100%;
@@ -28,4 +29,18 @@ body {
     padding: 10px 20px;
     margin: 2px;
     border-radius: 5px;
+}
+#ul-El{
+    list-style: none;
+    padding-left: 0;
+    margin-top: 16px;
+   
+}
+#ul-El li{
+    padding: 3px;
+
+}
+#ul-El a{
+    text-decoration: none;
+    color: #5da234;
 }
