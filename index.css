@@ -17,7 +17,22 @@ body {
     border: 1.3px solid #5da234; ;
     height: 30px;
 }
-#input-btn{
+#delete-btn{
+    background: white;
+    color: #5da234;
+    border: 1px solid #5da234;
+    box-sizing: border-box;
+    /* padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    font-weight: bolder;
+    padding: 10px 20px;
+    margin: 2px;
+    border-radius: 5px;
+
+}
+#input-btn ,#tab-btn{
     background: #5da234;
     color: white;
     border: none;
