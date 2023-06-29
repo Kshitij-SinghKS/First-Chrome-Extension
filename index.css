@@ -1,0 +1,31 @@
+body {
+    margin:0;
+    padding:10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#input-el{
+    width: 100%;
+    /* padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px; */
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 2px;
+    margin: 3px;
+    border: 1.3px solid #5da234; ;
+    height: 30px;
+}
+#input-btn{
+    background: #5da234;
+    color: white;
+    border: none;
+    /* padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px; */
+    font-weight: bolder;
+    padding: 10px 20px;
+    margin: 2px;
+    border-radius: 5px;
+}
