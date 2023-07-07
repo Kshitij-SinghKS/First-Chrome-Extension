@@ -33,10 +33,10 @@ let listItems = ""
 for (let i = 0; i < leads.length; i++) {
    // listItems += "<li>" + myLeads[i] + "</li>";
   listItems+= `<li>
-     <a target='_blank' href ='${leads[i]}'>
+     <a target='_blank' href ='${leads[i]}'>            
           ${leads[i]}
      </a>
-     </li>`
+     </li>`                       //template string
     //Creating a li element
     //set text content
     //append to ul
